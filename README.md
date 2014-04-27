@@ -7,11 +7,11 @@ This repository contains the R code and ReadME.md as part of the Coursera Gettin
 
 Following files are included run_analysis.R and ReadMe.md
 
-##========================================================##
+##================================================##
 
-## Coursera Getting and Cleaning Data Course Project
+##Getting and Cleaning Data Course Project
 ## by Sandeep Karkhanis
-##========================================================##
+##================================================##
 
 #+++++++++++++##+++++++++++++#
 ## ReadMe File Note
