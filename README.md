@@ -106,7 +106,7 @@ Following files are included run_analysis.R and ReadMe.md
 #     - The variable have a time (prefix t) and frequency (prefix f) domain component.
 #     - Variables are normalized and bounded within [-1,1]
 #     - These signals were used to estimate statistical variables [mean, std deviation, min, max
-#       ,skew, kurtosis] for each of the feature vector pattern: '-XYZ' is used to denote 3 
+#       ,skew, kurtosis etc.] for each of the feature vector pattern: '-XYZ' is used to denote 3 
 #       axial signals in the X, Y and Z directions.
 #     - A listing of the statistical variables created is described under the file "FeatureInfo"
 #     - A complete list of the 561 variables is available in the file "Features.txt"
