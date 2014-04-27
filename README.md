@@ -21,9 +21,9 @@ This ReadMe.md file describes
 - how the run_analysis.r script works
 - the variables, the data, and any transformations performed to clean up the data
 
-#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++
+#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++##
 # ReadMe.md File Layout
-#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++
+#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++##
 
 # 01. Brief Project Description
 # 02. Assumptions 
@@ -43,9 +43,9 @@ This ReadMe.md file describes
 
 #  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++
+#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++##
 02. Assumptions
-#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++
+#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++##
 
 # 01. The data files needed for this project are available under,
 #     "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
@@ -65,9 +65,9 @@ This ReadMe.md file describes
 #     values; hence, I have not included this aspect in the variable names in the tidyData set                
 #     instead expalined it in the ReadMe.md
 
-#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++
+#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++##
 # 03. Raw Data Description
-#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++
+#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++##
 # The data comes from the Human Activity Recognition Using Smartphones Experiment
 # A group of 30 volunteers within an age bracket of 19-48 years participated in this experiement 
 # Each person performed 6 activities namely, Walking, walking Upstairs, Walking Downstairs,
@@ -114,9 +114,9 @@ This ReadMe.md file describes
 # As stated in the assumptions above, as part of the project, only mean() & stddev() estimates
 # are included in the analysis.
 
-#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++
+#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++##
 # 04. Working of the run_analysis.R script
-#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++
+#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++##
 
 # runAnalysis.r File Description:
 
@@ -169,9 +169,9 @@ This ReadMe.md file describes
 #  06.Exporting the tidyData set
 #     - Using the "write.table" command, tidyData is exported as a tab delimited text file
 
-#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++
+#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++##
 # 05. Tidy Data Description
-#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++
+#++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++##
 #     The columns of the tidyData set are described below,
 #     - activityId, subjectId, activityType are same as before.
 #     - columns "timeBodyAccMagnitudeMean" , "timeBodyAccMagnitudeStdDev" represent the average
