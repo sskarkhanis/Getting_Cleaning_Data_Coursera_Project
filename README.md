@@ -1,7 +1,8 @@
 Getting_Cleaning_Data_Coursera_Project
 ======================================
 
-This repository contains the R code and ReadME.md as part of the Coursera Getting and Cleaning Data in R Course. 
+This repository contains the R code and ReadME.md as part of the Coursera Getting and Cleaning Data in R Course.
+  !!Since all the description is available here, no separate CodeBook is provided!!
 Following files are included  run_analysis.R and ReadMe.md
 
 ========================================================
@@ -17,7 +18,6 @@ This ReadMe.md file describes
 - assumptions used in the analysis
 - how the run_analysis.r script works
 - the variables, the data, and any transformations performed to clean up the data
-- Since all the description is available here, no separate CodeBook is provided
 
 #++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++
 # ReadMe.md File Layout
