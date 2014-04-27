@@ -132,7 +132,7 @@ Following files are included run_analysis.R and ReadMe.md
 #  02.Combining training, test set
 #     - I used "rbind" to concatenate the training & test sets into a table "finalData"
 #     - At this point, finalData has all of the 561 columns along with subjectId & actiityID
-#     - Next step is to subset finalData so that it only contains relevant mean(), stddev()
+#     - Next step is to subset finalData so that it only contains relevant mean(), stddev() columns
 #     - A two-fold approach is used, 
 #     - store the finalData columns in colNames vector
 #     - a logicalVector is created using "grepl" expression; "grepl" searches for a specific
