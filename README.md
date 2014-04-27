@@ -16,10 +16,10 @@ Following files are included run_analysis.R and ReadMe.md
 #+++++++++++++##+++++++++++++#
 ## ReadMe File Note
 #+++++++++++++##+++++++++++++#
-This ReadMe.md file describes
-- assumptions used in the analysis
-- how the run_analysis.r script works
-- the variables, the data, and any transformations performed to clean up the data
+## This ReadMe.md file describes
+## - assumptions used in the analysis
+## - how the run_analysis.r script works
+## - the variables, the data, and any transformations performed to clean up the data
 
 #++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++##
 # ReadMe.md File Layout
@@ -44,7 +44,7 @@ This ReadMe.md file describes
 #  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 #++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++##
-02. Assumptions
+# 02. Assumptions
 #++++++++++++++++++++++++++++++#++++++++++++++++++++++++++++++##
 
 # 01. The data files needed for this project are available under,
