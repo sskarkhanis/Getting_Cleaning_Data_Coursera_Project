@@ -5,7 +5,7 @@ This repository contains the R code and ReadME.md as part of the Coursera Gettin
 
 !!Since all the description is made available here, no separate CodeBook is provided!!
 
-Following files are included  run_analysis.R and ReadMe.md
+Following files are included run_analysis.R and ReadMe.md
 
 ========================================================
 ## ReadMe File
